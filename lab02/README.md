@@ -1,1 +1,1 @@
-lab02
+Lab02 - Comparison of different types of sorting
